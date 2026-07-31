@@ -8,12 +8,12 @@ Learn how modern LLMs work, how to prompt them effectively, and how to build pro
 
 ## Legend
 
-| Tier | Meaning |
-|--------|----------|
-| Tier 1 | Core concepts every AI engineer should understand. |
-| Tier 2 | Essential techniques for building AI applications. |
-| Tier 3 | Advanced concepts commonly used in production AI systems. |
-| Tier 4 | Specialized topics worth learning after the fundamentals. |
+| Tiers     | Meaning                                                                                         |
+| --------- | ----------------------------------------------------------------------------------------------- |
+| Tiers 1–2 | Core concepts and essential techniques every AI engineer should understand.                     |
+| Tiers 3–4 | Practical concepts for working with models, APIs, context, memory, and retrieval.               |
+| Tiers 5–6 | Advanced engineering concepts for building agents and production AI applications.               |
+| Tiers 7–8 | Specialized AI development workflows, model customization, inference, evaluation, and security. |
 
 ---
 
